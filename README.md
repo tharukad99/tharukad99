@@ -3,7 +3,7 @@
 hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and software engineer from Srilanka. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="https://www.linkedin.com/in/tharuka-dilshan-7742ba202/" width="100" height="30" />
+
 
 **languages and tools:**  
 
@@ -20,17 +20,11 @@ hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and s
 
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="10" ></a> 
-
+  <img align="right" alt="GIF" src="https://www.linkedin.com/in/tharuka-dilshan-7742ba202/" width="10" height="3" />
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
