@@ -20,23 +20,6 @@ hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and s
 
 ![image](https://github.com/tharukad99/tharukad99/assets/86557641/12351258-d9f0-4b7c-8b55-f7da1382ee75)
 
-<!--END_SECTION:waka-->
-
-if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-  <img align="right" alt="GIF" src="https://www.linkedin.com/in/tharuka-dilshan-7742ba202/" width="10" height="3" />
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tharukad99&show_icons=true&theme=gotham" alt="tharukad99" />
 
 
 
