@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/tharukad99/tharukad99/assets/86557641/12351258-d9f0-4b7c-8b55-f7da1382ee75)### Hi there 👋
 
 hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and software engineer from Srilanka. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -21,6 +21,8 @@ hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -36,7 +38,7 @@ Git Config   6 mins          ▒░░░░░░░░░░░░░░░░
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<!--<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
