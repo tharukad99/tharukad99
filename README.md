@@ -4,9 +4,6 @@ hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and s
 
 
   <img align="right" alt="GIF" src="https://www.linkedin.com/in/tharuka-dilshan-7742ba202/" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](trdilshan99@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
@@ -26,19 +23,13 @@ hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and s
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   11 hrs 5 mins   █████████████████████░░░░   84.14 %
-Other        1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-```
+
 
 <!--END_SECTION:waka-->
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="50" ></a> 
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="10" ></a> 
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
