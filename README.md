@@ -7,7 +7,7 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and software engineer from Srilanka. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm Tharuka Dilshan, a passionate self-taught full-stack web developer and software engineer from Sri Lanka. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
